@@ -14,4 +14,4 @@ You can tick the box in case you would like to fit a negative regression to your
 The algorithm is based on the first derivative of the traces from which the fastest part is then isolated to fit a linear regression and extract the slope "a" from the equation "y = ax +b". 
 There is a pause between each trace to let you observe that the fit is correct, you can modify it on line 55, "pause(1)".
 
-Video example: https://youtu.be/a8gxQElWiVE
+Video example: [Slope From Linear Regression](https://youtu.be/a8gxQElWiVE)
