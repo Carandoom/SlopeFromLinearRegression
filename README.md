@@ -1,4 +1,4 @@
-# Slope From Linear Regression
+# Slope From Linear Regression [![DOI](https://zenodo.org/badge/373492736.svg)](https://zenodo.org/badge/latestdoi/373492736)
 
 Script made in Matlab originally to extract the slope on FURA-2 experiments.
 
